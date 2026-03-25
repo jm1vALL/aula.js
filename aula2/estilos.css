@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(191, 191, 197);
+
+}
+
+h1{
+    background-color: rebeccapurple;
+    color: bisque;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+.conteudo
+{
+    margin: 20px auto;
+    border: 1px solid royalblue;
+    width: 500px;
+    padding: 20px;
+    box-shadow: 0 10px 10px rgb(55, 192, 255);
+    background-color: whitesmoke;
+}
+
+.conteudo p
+{
+    font-size: 20px;
+    text-align: justify;
+}
+
+input[type=text], input[type=number]
+{
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+}
